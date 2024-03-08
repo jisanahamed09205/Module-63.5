@@ -1,0 +1,210 @@
+{
+    "brands": [
+      {
+        "brand_name": "Duranta",
+        "brand_img": "Duranta_logo.png",
+        "models": [
+          {
+            "model_name": "Duranta Alloy 21-Spd Xavier R-1905 26 Red",
+            "img": "model1a.jpg",
+            "price": 1000,
+            "rating": 4.5,
+            "short_description": "Alloy frame, suspension fork, quick-release hubs, high-grade saddle, Artek disk brakes, Shimano components, 8-speed, 26' wheels, comfortable grip."
+          },
+          {
+            "model_name": "Duranta Sports 26",
+            "img": "model1b.jpg",
+            "price": 1200,
+            "rating": 4.7,
+            "short_description": "700C steel frame, rigid fork, alloy components, mechanical disk brakes, 36-hole rims, comfortable saddle, 1-speed, 700x23C tires, unique decals."
+          },
+          {
+            "model_name": "Duranta Muscular Red 24 Inch",
+            "img": "model1c.jpg",
+            "price": 800,
+            "rating": 4.2,
+            "short_description": "Steel MTB frame, suspension fork, disc brakes, 7-speed, durable components, reliable shifting, double-wall alloy rims, MTB tires."
+          },
+          {
+            "model_name": "Duranta scooty",
+            "img": "model1d.jpg",
+            "price": 950,
+            "rating": 4.3,
+            "short_description": "Remote control lock, battery casing lock, brake lock, 650W motor, 30km/h max speed, 45-50km range, 22' wheels, steel chassis, 1-year warranty."
+          },
+          {
+            "model_name": "Duranta Steel 21-Spd Dynamic X-300 26 Red",
+            "img": "model1e.jpg",
+            "price": 1100,
+            "rating": 4.6,
+            "short_description": "Steel frame, suspension fork, alloy pedal, comfortable saddle, disc brakes, mag aluminum rims, 7-speed, 26' wheels, durable components."
+          }
+        ]
+      },
+      {
+        "brand_name": "Brand2",
+        "brand_img": "brand2_logo.png",
+        "models": [
+          {
+            "model_name": "Model2A",
+            "img": "model2a.jpg",
+            "price": 900,
+            "rating": 4.4,
+            "short_description": "Description for Model2A"
+          },
+          {
+            "model_name": "Model2B",
+            "img": "model2b.jpg",
+            "price": 1100,
+            "rating": 4.6,
+            "short_description": "Description for Model2B"
+          },
+          {
+            "model_name": "Model2C",
+            "img": "model2c.jpg",
+            "price": 950,
+            "rating": 4.3,
+            "short_description": "Description for Model2C"
+          },
+          {
+            "model_name": "Model2D",
+            "img": "model2d.jpg",
+            "price": 1000,
+            "rating": 4.5,
+            "short_description": "Description for Model2D"
+          },
+          {
+            "model_name": "Model2E",
+            "img": "model2e.jpg",
+            "price": 1200,
+            "rating": 4.7,
+            "short_description": "Description for Model2E"
+          }
+        ]
+      },
+      {
+        "brand_name": "Brand3",
+        "brand_img": "brand3_logo.png",
+        "models": [
+          {
+            "model_name": "Model3A",
+            "img": "model3a.jpg",
+            "price": 1100,
+            "rating": 4.6,
+            "short_description": "Description for Model3A"
+          },
+          {
+            "model_name": "Model3B",
+            "img": "model3b.jpg",
+            "price": 1000,
+            "rating": 4.5,
+            "short_description": "Description for Model3B"
+          },
+          {
+            "model_name": "Model3C",
+            "img": "model3c.jpg",
+            "price": 1200,
+            "rating": 4.7,
+            "short_description": "Description for Model3C"
+          },
+          {
+            "model_name": "Model3D",
+            "img": "model3d.jpg",
+            "price": 950,
+            "rating": 4.3,
+            "short_description": "Description for Model3D"
+          },
+          {
+            "model_name": "Model3E",
+            "img": "model3e.jpg",
+            "price": 800,
+            "rating": 4.2,
+            "short_description": "Description for Model3E"
+          }
+        ]
+      },
+      {
+        "brand_name": "Brand4",
+        "brand_img": "brand4_logo.png",
+        "models": [
+          {
+            "model_name": "Model4A",
+            "img": "model4a.jpg",
+            "price": 1000,
+            "rating": 4.5,
+            "short_description": "Description for Model4A"
+          },
+          {
+            "model_name": "Model4B",
+            "img": "model4b.jpg",
+            "price": 1200,
+            "rating": 4.7,
+            "short_description": "Description for Model4B"
+          },
+          {
+            "model_name": "Model4C",
+            "img": "model4c.jpg",
+            "price": 800,
+            "rating": 4.2,
+            "short_description": "Description for Model4C"
+          },
+          {
+            "model_name": "Model4D",
+            "img": "model4d.jpg",
+            "price": 950,
+            "rating": 4.3,
+            "short_description": "Description for Model4D"
+          },
+          {
+            "model_name": "Model4E",
+            "img": "model4e.jpg",
+            "price": 1100,
+            "rating": 4.6,
+            "short_description": "Description for Model4E"
+          }
+        ]
+      },
+      {
+        "brand_name": "Brand5",
+        "brand_img": "brand5_logo.png",
+        "models": [
+          {
+            "model_name": "Model5A",
+            "img": "model5a.jpg",
+            "price": 900,
+            "rating": 4.4,
+            "short_description": "Description for Model5A"
+          },
+          {
+            "model_name": "Model5B",
+            "img": "model5b.jpg",
+            "price": 1100,
+            "rating": 4.6,
+            "short_description": "Description for Model5B"
+          },
+          {
+            "model_name": "Model5C",
+            "img": "model5c.jpg",
+            "price": 950,
+            "rating": 4.3,
+            "short_description": "Description for Model5C"
+          },
+          {
+            "model_name": "Model5D",
+            "img": "model5d.jpg",
+            "price": 1000,
+            "rating": 4.5,
+            "short_description": "Description for Model5D"
+          },
+          {
+            "model_name": "Model5E",
+            "img": "model5e.jpg",
+            "price": 1200,
+            "rating": 4.7,
+            "short_description": "Description for Model5E"
+          }
+        ]
+      }
+    ]
+  }
+  
